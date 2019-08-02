@@ -1,2 +1,5 @@
-# .net
-test .net
+<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">  
+  <Application>  
+    <Assembly Name="*Application*" Dynamic="Required All" />  
+  </Application>  
+</Directives>  
